@@ -5,10 +5,9 @@ It uses Whisper with torch and ffmpeg for stripping video from audio, it support
 
 
 ## Usage:
-Clone
+- Clone
 `git clone https://github.com/mkolek687-lab/Simple-Japanese-ASR.git`
-`cd Simple-Japanese-ASR`
-Install dependencies
+- Install dependencies
 `pip install -r requirements.txt`
-And run
+- And run
 `python main.py`
