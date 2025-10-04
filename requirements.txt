@@ -1,0 +1,6 @@
+openai-whisper
+ffmpeg-python
+tkinter
+typing
+-f https://download.pytorch.org/whl/cu113/torch_stable.html
+torch==1.10.0+cu113
